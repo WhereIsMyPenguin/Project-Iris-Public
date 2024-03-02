@@ -19,3 +19,6 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 アプリ内のどの画面に遷移したかログに記録されます！
 
 ログの場所は C:\Users\[ユーザー名]\AppData\Local\Temp 内にある Project_Irisというファイルです。
+
+
+※使用しているアイコンや画像は著作権に触れていません（すべて自作です）
