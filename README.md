@@ -1,9 +1,4 @@
 # Project-Iris-Public
-本アプリを使うにはSQL Server が必要です！
-
-https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
-
-マイクロソフトのページからダウンロードしてください。
 
 !データベースがありません！と表示された場合、そこをクリックしてください。登録画面へ移ります。
 
